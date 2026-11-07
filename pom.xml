@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>turath-java-mujam-lisan-lookup</artifactId>
+  <version>1.0.0</version>
+  <name>Rhyme-Order (Qafiyah: Bab-Fasl) Classical Arabic Lexicon Resolver</name>
+</project>
